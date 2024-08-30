@@ -1,0 +1,190 @@
+*{
+    height: 54%;
+box-sizing: border-box;
+}
+
+
+
+.class1{
+    width: 100%;
+    background-color:deepskyblue;
+}
+
+.class2{
+    width: 100%;
+    background-color: deeppink;
+}
+.class3 {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    width: 33%;
+    background-color:deepskyblue;
+    margin: 0 auto; /* Center the .class3 element itself horizontally */
+}
+
+
+.container1 {
+    display: flex;
+    width: 100%;
+    
+    
+}
+
+.class4 {
+    width: 33%;
+    min-height: 100%;
+    background-color: deeppink;
+}
+
+.class5 {
+    width: 67%;
+    min-height: 100%;
+    background-color:yellow;
+}
+.container2 {
+    display: flex;
+
+    
+
+  
+}
+
+.class6 {
+    width: 33.33%;
+    min-height: 100%;
+    background-color: deepskyblue;
+}
+
+.class7 {
+    width: 33.33%;
+    min-height: 100%;
+    background-color: deeppink;
+}
+
+.class8 {
+    width: 33.33%;
+    min-height: 100%;
+    background-color: deepskyblue;
+}
+.container3 {
+    display: flex;
+    width: 100%;
+    
+    
+}
+
+.class9{
+    width: 67%;
+    min-height: 100%;
+    background-color:yellow;
+}
+
+.class10{
+    width: 33%;
+    min-height: 100%;
+    background-color:deeppink;
+}
+.container4 {
+    display: flex;
+
+    
+
+  
+}
+
+.class11 {
+    width: 33.33%;
+    min-height: 100%;
+    background-color: deepskyblue;
+}
+
+.class12 {
+    width: 33.33%;
+    min-height: 100%;
+    background-color: deeppink;
+}
+
+.class13 {
+    width: 33.33%;
+    min-height: 100%;
+    background-color: deepskyblue;
+}
+.container5 {
+    display: flex; 
+    justify-content: center
+}
+
+.class14 {
+    width: 30%;
+    min-height: 100%;
+    background-color: deeppink;
+}
+
+.class15 {
+    width: 30%;
+    min-height: 100%;
+    background-color: deepskyblue;
+}
+
+.class16 {
+    width: 30%;
+    min-height: 100%;
+    background-color: deeppink;
+}
+.class17{
+    width: 100%;
+    background-color:yellow;
+}
+
+.container6 {
+    display: flex;
+    width: 100%;
+    
+    
+}
+
+.class18{
+    width: 67%;
+    min-height: 100%;
+    background-color:deepskyblue;
+}
+
+.class19{
+    width: 33%;
+    min-height: 100%;
+    background-color:deeppink;
+}
+.container7{
+    display: flex;
+    width: 100%;
+   
+    background-color: black;
+}
+.class20{
+  width: 25%;
+  min-height: 100%;
+    background-color: yellow;
+}
+.class21{
+    width: 25%;
+    min-height: 100%;
+  background-color:deeppink;
+}
+.class22{
+    width: 25%;
+    min-height: 100%;
+  background-color: yellow;
+}
+.class23{
+    width: 25%;
+    min-height: 100%;
+background-color: deepskyblue;
+}
+
+.class24{
+    width: 100%;
+    background-color: rgb(13, 255, 0);
+    height:100%;
+    
+}
